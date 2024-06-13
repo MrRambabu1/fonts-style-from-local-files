@@ -1,0 +1,70 @@
+@font-face {
+    font-family: "Gurajada";
+    src: url("./Fonts/Gurajada.ttf");
+}
+
+#para1 {
+    font-family: "Gurajada", "serif";
+    font-weight: 400;
+    font-style: normal;
+}
+
+img {
+    height: 500px;
+    width: 900px;
+    padding-left: 200px;
+}
+
+@font-face {
+    font-family: "k82";
+    src: url("./Fonts/K82.TTF");
+}
+
+@font-face {
+    font-family: "k75";
+    src: url("./Fonts/K75.TTF");
+}
+
+#hindipara1 {
+    font-family: "k82";
+    font-weight: 400;
+    font-style: normal;
+}
+
+#hindipara2 {
+    font-family: "k75";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "aniezhal";
+    src: url("./Fonts/Aniezhai\ Normal.otf");
+}
+
+#tamilpara1 {
+    font-family: "aniezhal";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "nudi";
+    src: url("./Fonts/Nudi\ 17\ e\ Regular.ttf");
+}
+
+#kannadapara1 {
+    font-family: "aniezhal";
+    font-weight: 400;
+    font-style: normal;
+}
+
+#kimg {
+    height: 800px;
+    width: 600px;
+    padding-left: 400px;
+}
+
+a {
+    text-align: center;
+}
